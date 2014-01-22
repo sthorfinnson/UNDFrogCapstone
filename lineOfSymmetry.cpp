@@ -98,7 +98,11 @@ void thresh_callback(int, void* )
             if(res2 < .1*rows){
                 
                 
+<<<<<<< HEAD
                 
+=======
+            
+>>>>>>> cb15dba6014a0edadc6ba54b71cf45418f49b8aa
                 line( drawing, mc[i], mc[i+1],color, 1, 8, 0);
                 line( newSrc, mc[i], mc[i+1],color, 1, 8, 0);       //Draw line horizontally between the biggest contours
                 
@@ -132,6 +136,7 @@ void thresh_callback(int, void* )
                 double midTopX=-b/slope_inverse;                        //Creates top x coordinate of line of symmetry based off ('b')
                 
                 
+<<<<<<< HEAD
                 
                 
                 
@@ -141,6 +146,17 @@ void thresh_callback(int, void* )
                 //We could star the line at the midpoint of eyes if we choose...swap 0 for center.y
                 
                 
+=======
+            
+                
+                
+               
+                Point pt1(midBottomX, s.height);                        //Creates bottom point of line that crosses through midpoint of eyes
+                Point pt2(midTopX, 0);                                  //Creates top point of line that crosses through midpoint of eyes
+                                                                        //We could star the line at the midpoint of eyes if we choose...swap 0 for center.y
+                
+             
+>>>>>>> cb15dba6014a0edadc6ba54b71cf45418f49b8aa
                 
                 Point leftEye(mc[i].x, mc[i].y);                         //Creates point of left eye
                 Point rightEye(mc[i+1].x, mc[i+1].y);                    //Creates point of right eye
@@ -172,13 +188,21 @@ void thresh_callback(int, void* )
                     line( newSrc, rightEye, rightEyeBottom, color,  2, 8, 0);         //Draws line from right eye
                     
                     
+<<<<<<< HEAD
                     
+=======
+         
+>>>>>>> cb15dba6014a0edadc6ba54b71cf45418f49b8aa
                     
                     
                 }
                 
                 
+<<<<<<< HEAD
                 
+=======
+            
+>>>>>>> cb15dba6014a0edadc6ba54b71cf45418f49b8aa
             }
             
             
@@ -197,7 +221,11 @@ void thresh_callback(int, void* )
     printf("\t Info: Area and Contour Length \n");
     for( int i = 0; i< contours.size(); i++ )
     {
+<<<<<<< HEAD
         // printf(" * Contour[%d] - Area (M_00) = %.2f - Area OpenCV: %.2f - Length: %.2f \n", i, mu[i].m00, contourArea(contours[i]), arcLength( contours[i], true ) );
+=======
+       // printf(" * Contour[%d] - Area (M_00) = %.2f - Area OpenCV: %.2f - Length: %.2f \n", i, mu[i].m00, contourArea(contours[i]), arcLength( contours[i], true ) );
+>>>>>>> cb15dba6014a0edadc6ba54b71cf45418f49b8aa
         Scalar color = Scalar( rng.uniform(0, 255), rng.uniform(0,255), rng.uniform(0,255) );
         drawContours( drawing, contours, i, color, 2, 8, hierarchy, 0, Point() );
         circle( drawing, mc[i], 4, color, -1, 8, 0 );
