@@ -1,0 +1,6000 @@
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4679
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 1847
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 0
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 5755
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2406
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 6226
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4783
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4294
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2271
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4426
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 5568
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 5078
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2021
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2772
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4149
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2501
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3231
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2284
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3458
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 4298
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3713
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3116
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3967
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3914
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3101
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-084.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 3063
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 2242
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 7594
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-084.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 6257
+Number of SURF points (2): 7865
+Number of matched points 1->2: 6257
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2859
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 5740
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 1661
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 781
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4679
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 1847
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 5755
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2406
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 6226
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4783
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4294
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2271
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4426
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 5568
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 5078
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2021
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2772
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4149
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2501
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 1
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3231
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2284
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3458
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 4298
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3713
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3116
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3967
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3914
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3101
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 3063
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 2242
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-085.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 7594
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-085.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5537
+Number of SURF points (2): 7865
+Number of matched points 1->2: 5537
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2859
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 5740
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 1661
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 781
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4679
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 1847
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 5755
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2406
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 6226
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4783
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4294
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2271
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4426
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 5568
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 5078
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2021
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2772
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4149
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 6
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2501
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3231
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2284
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3458
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 4298
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3713
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3116
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3967
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3914
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3101
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 3063
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 2242
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-086.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 7594
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-086.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4520
+Number of SURF points (2): 7865
+Number of matched points 1->2: 4520
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2859
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 5740
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 1661
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 781
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-087.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4679
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 1847
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 5755
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2406
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 6226
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4783
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4294
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2271
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4426
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 5568
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 5078
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2021
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2772
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4149
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2501
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3231
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-087.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2284
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3458
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 4298
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3713
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3116
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3967
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-087.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3914
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-087.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3101
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 3063
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 6
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 2242
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-087.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 7594
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-087.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3861
+Number of SURF points (2): 7865
+Number of matched points 1->2: 3861
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2859
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 5740
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 1661
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 781
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4679
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-088.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 1847
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 5755
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2406
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 6226
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4783
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-088.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4294
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2271
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4426
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 5568
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 5078
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-088.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2021
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2772
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4149
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2501
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3231
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-088.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2284
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3458
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-088.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 4298
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3713
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3116
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3967
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3914
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3101
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 3063
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 2242
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 7594
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-088.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5908
+Number of SURF points (2): 7865
+Number of matched points 1->2: 5908
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2859
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 5740
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 1661
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 781
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4679
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 1847
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 5755
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2406
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 6226
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4783
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4294
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2271
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4426
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 5568
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 5078
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2021
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2772
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4149
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2501
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3231
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2284
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3458
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 4298
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3713
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3116
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3967
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3914
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3101
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 3063
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-093.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 2242
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 7
+Number of matched points (after RANSAC): 7
+Rs10-093.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 7594
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-093.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4290
+Number of SURF points (2): 7865
+Number of matched points 1->2: 4290
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2859
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 5740
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 1661
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 781
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 22
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4679
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 1847
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 0
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 5755
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2406
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 6226
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4783
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4294
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2271
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4426
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 5568
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 5078
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2021
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2772
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4149
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2501
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3231
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2284
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 22
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 7
+Number of matched points (after RANSAC): 7
+Rs10-119.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3458
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 4298
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3713
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3116
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3967
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3914
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3101
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 3063
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 2242
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-119.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 7594
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4392
+Number of SURF points (2): 7865
+Number of matched points 1->2: 4392
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2859
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 5740
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 1661
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 781
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4679
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 1847
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 5755
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2406
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 6226
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4783
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4294
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2271
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4426
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 5568
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 5078
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2021
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2772
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 6
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4149
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2501
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3231
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2284
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3458
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 4298
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 27
+Number of matched points (symmetry test): 8
+Number of matched points (after RANSAC): 7
+Rs10-122.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3713
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3116
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3967
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3914
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-122.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3101
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 3063
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 2242
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 7594
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-122.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4035
+Number of SURF points (2): 7865
+Number of matched points 1->2: 4035
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2859
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 21
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 5740
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 13
+Number of matched points (after RANSAC): 7
+Rs10-126.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 1661
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 20
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 781
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 26
+Number of matched points 2->1 (ratio test) : 0
+Number of matched points (symmetry test): 0
+Rs10-126.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4679
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 1847
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 5755
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-126.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2406
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 6226
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4783
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4294
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2271
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4426
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 5568
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 5078
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2021
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2772
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4149
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2501
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3231
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2284
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3458
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 4298
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3713
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3116
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3967
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-126.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3914
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3101
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 3063
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 20
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 2242
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 7594
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-126.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 7208
+Number of SURF points (2): 7865
+Number of matched points 1->2: 7208
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2859
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 5740
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 1661
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 781
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 0
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4679
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 1847
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 5755
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2406
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 6226
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4783
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4294
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2271
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4426
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 5568
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 5078
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2021
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 6
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2772
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4149
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2501
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3231
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2284
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3458
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-135.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 4298
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3713
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3116
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3967
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3914
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3101
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 3063
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 2242
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 7594
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-135.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 2862
+Number of SURF points (2): 7865
+Number of matched points 1->2: 2862
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2859
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 5740
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-138.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 1661
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 781
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 0
+Number of matched points (symmetry test): 0
+Rs10-138.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4679
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 1847
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 5755
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2406
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 6226
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4783
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4294
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2271
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4426
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 5568
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 5078
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2021
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-138.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2772
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4149
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2501
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3231
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2284
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3458
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 4298
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3713
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3116
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3967
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3914
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3101
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 3063
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 2242
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 7594
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-138.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 5049
+Number of SURF points (2): 7865
+Number of matched points 1->2: 5049
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2859
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 5740
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 12
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 1661
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 781
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4679
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 1847
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 5755
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2406
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 6226
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4783
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4294
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2271
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4426
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 5568
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 5078
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2021
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2772
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4149
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2501
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3231
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2284
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3458
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 4298
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3713
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3116
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3967
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3914
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3101
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 3063
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-153.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 2242
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 7594
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-153.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3125
+Number of SURF points (2): 7865
+Number of matched points 1->2: 3125
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2859
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 5740
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-154.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 1661
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 781
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4679
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 1847
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 3
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 5755
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2406
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 6226
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4783
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4294
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2271
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4426
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 5568
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 5078
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2021
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2772
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4149
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2501
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3231
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2284
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3458
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 4298
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3713
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3116
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3967
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3914
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3101
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-154.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 3063
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-154.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 2242
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 7594
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-154.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 3271
+Number of SURF points (2): 7865
+Number of matched points 1->2: 3271
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2859
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 5740
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 1661
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 781
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4679
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 1847
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 1
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 5755
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2406
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 6226
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4783
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4294
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 1
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2271
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4426
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 5568
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 5078
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2021
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2772
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4149
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2501
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3231
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2284
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3458
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 4298
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 6
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3713
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 34
+Number of matched points 2->1 (ratio test) : 39
+Number of matched points (symmetry test): 18
+Number of matched points (after RANSAC): 14
+Rs10-191.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3116
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3967
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-191.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3914
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3101
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 1
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 3063
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 2242
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 7594
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-191.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 4376
+Number of SURF points (2): 7865
+Number of matched points 1->2: 4376
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 4
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-026.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2859
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2859
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-027.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 5740
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 5740
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-034.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 1661
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 1661
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-040.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 781
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 781
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-041.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4679
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4679
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-042.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 1847
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 1847
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 2
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-043.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 5755
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 5755
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-044.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2406
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2406
+Number of matched points 1->2 (ratio test) : 1
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-045.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 6226
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 6226
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-046.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4783
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4783
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 4
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-047.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4294
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4294
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-048.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2271
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2271
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-049.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4426
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4426
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-050.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 5568
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 5568
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-051.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 5078
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 5078
+Number of matched points 1->2 (ratio test) : 0
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-052.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2021
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2021
+Number of matched points 1->2 (ratio test) : 9
+Number of matched points 2->1 (ratio test) : 7
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-053.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2772
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2772
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-054.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4149
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4149
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-055.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2501
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2501
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-056.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3231
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3231
+Number of matched points 1->2 (ratio test) : 8
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 3
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-058.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2284
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2284
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-063.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3458
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3458
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 5
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-074.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 4298
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 4298
+Number of matched points 1->2 (ratio test) : 2
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-086.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3713
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3713
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-088.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3116
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3116
+Number of matched points 1->2 (ratio test) : 50
+Number of matched points 2->1 (ratio test) : 74
+Number of matched points (symmetry test): 42
+Number of matched points (after RANSAC): 27
+Rs10-195.jpg : Rs09-101.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3967
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3967
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 5
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-102.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3914
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3914
+Number of matched points 1->2 (ratio test) : 7
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 4
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-135.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3101
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3101
+Number of matched points 1->2 (ratio test) : 5
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 0
+Rs10-195.jpg : Rs09-154.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 3063
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 3063
+Number of matched points 1->2 (ratio test) : 11
+Number of matched points 2->1 (ratio test) : 8
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-189.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 2242
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 2242
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 6
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-237.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 7594
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 7594
+Number of matched points 1->2 (ratio test) : 3
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 1
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+Rs10-195.jpg : Rs09-449.jpg
+BFMatcher engaged
+knnMatch 1->2
+knnMatch 2->1
+Number of SURF points (1): 1586
+Number of SURF points (2): 7865
+Number of matched points 1->2: 1586
+Number of matched points 2->1: 7865
+Number of matched points 1->2 (ratio test) : 6
+Number of matched points 2->1 (ratio test) : 11
+Number of matched points (symmetry test): 2
+Number of matched points (after RANSAC): 0
+Frogs are not a match!!
+
+C:\Users\David\Dropbox\UND\2014\EE481 Senior Design II\FrogMatcher\x64\Release>

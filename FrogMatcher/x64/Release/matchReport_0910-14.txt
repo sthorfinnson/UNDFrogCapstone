@@ -1,0 +1,112 @@
+Frog Image Match Report
+Image directory: i:\TrainingSet
+Looking for a match to: Rs03-242.jpg
+Rs03-242.jpg, Rs02-224.jpg, 0
+Rs03-242.jpg, Rs02-251.jpg, 0
+Rs03-242.jpg, Rs02-265.jpg, 0
+Rs03-242.jpg, Rs02-280.jpg, 0
+Rs03-242.jpg, Rs02-297.jpg, 0
+Rs03-242.jpg, Rs02-373.jpg, 0
+Rs03-242.jpg, Rs02-380.jpg, 0
+Rs03-242.jpg, Rs02-393.jpg, 0
+Rs03-242.jpg, Rs02-458.jpg, 0
+Rs03-242.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-248.jpg
+Rs03-248.jpg, Rs02-224.jpg, 0
+Rs03-248.jpg, Rs02-251.jpg, 0
+Rs03-248.jpg, Rs02-265.jpg, MATCH
+Rs03-248.jpg, Rs02-280.jpg, 0
+Rs03-248.jpg, Rs02-297.jpg, 0
+Rs03-248.jpg, Rs02-373.jpg, 0
+Rs03-248.jpg, Rs02-380.jpg, 0
+Rs03-248.jpg, Rs02-393.jpg, 0
+Rs03-248.jpg, Rs02-458.jpg, 0
+Rs03-248.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-257.jpg
+Rs03-257.jpg, Rs02-224.jpg, 0
+Rs03-257.jpg, Rs02-251.jpg, MATCH
+Rs03-257.jpg, Rs02-265.jpg, 0
+Rs03-257.jpg, Rs02-280.jpg, 0
+Rs03-257.jpg, Rs02-297.jpg, 0
+Rs03-257.jpg, Rs02-373.jpg, 0
+Rs03-257.jpg, Rs02-380.jpg, 0
+Rs03-257.jpg, Rs02-393.jpg, 0
+Rs03-257.jpg, Rs02-458.jpg, 0
+Rs03-257.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-270.jpg
+Rs03-270.jpg, Rs02-224.jpg, 0
+Rs03-270.jpg, Rs02-251.jpg, 0
+Rs03-270.jpg, Rs02-265.jpg, 0
+Rs03-270.jpg, Rs02-280.jpg, 0
+Rs03-270.jpg, Rs02-297.jpg, MATCH
+Rs03-270.jpg, Rs02-373.jpg, 0
+Rs03-270.jpg, Rs02-380.jpg, 0
+Rs03-270.jpg, Rs02-393.jpg, 0
+Rs03-270.jpg, Rs02-458.jpg, 0
+Rs03-270.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-320.jpg
+Rs03-320.jpg, Rs02-224.jpg, 0
+Rs03-320.jpg, Rs02-251.jpg, 0
+Rs03-320.jpg, Rs02-265.jpg, 0
+Rs03-320.jpg, Rs02-280.jpg, 0
+Rs03-320.jpg, Rs02-297.jpg, 0
+Rs03-320.jpg, Rs02-373.jpg, 0
+Rs03-320.jpg, Rs02-380.jpg, MATCH
+Rs03-320.jpg, Rs02-393.jpg, 0
+Rs03-320.jpg, Rs02-458.jpg, 0
+Rs03-320.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-326.jpg
+Rs03-326.jpg, Rs02-224.jpg, 0
+Rs03-326.jpg, Rs02-251.jpg, 0
+Rs03-326.jpg, Rs02-265.jpg, 0
+Rs03-326.jpg, Rs02-280.jpg, 0
+Rs03-326.jpg, Rs02-297.jpg, 0
+Rs03-326.jpg, Rs02-373.jpg, 0
+Rs03-326.jpg, Rs02-380.jpg, 0
+Rs03-326.jpg, Rs02-393.jpg, 0
+Rs03-326.jpg, Rs02-458.jpg, 0
+Rs03-326.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-338.jpg
+Rs03-338.jpg, Rs02-224.jpg, 0
+Rs03-338.jpg, Rs02-251.jpg, MATCH
+Rs03-338.jpg, Rs02-265.jpg, 0
+Rs03-338.jpg, Rs02-280.jpg, 0
+Rs03-338.jpg, Rs02-297.jpg, 0
+Rs03-338.jpg, Rs02-373.jpg, 0
+Rs03-338.jpg, Rs02-380.jpg, 0
+Rs03-338.jpg, Rs02-393.jpg, 0
+Rs03-338.jpg, Rs02-458.jpg, 0
+Rs03-338.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-356.jpg
+Rs03-356.jpg, Rs02-224.jpg, MATCH
+Rs03-356.jpg, Rs02-251.jpg, 0
+Rs03-356.jpg, Rs02-265.jpg, 0
+Rs03-356.jpg, Rs02-280.jpg, 0
+Rs03-356.jpg, Rs02-297.jpg, 0
+Rs03-356.jpg, Rs02-373.jpg, 0
+Rs03-356.jpg, Rs02-380.jpg, 0
+Rs03-356.jpg, Rs02-393.jpg, 0
+Rs03-356.jpg, Rs02-458.jpg, 0
+Rs03-356.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-357.jpg
+Rs03-357.jpg, Rs02-224.jpg, 0
+Rs03-357.jpg, Rs02-251.jpg, 0
+Rs03-357.jpg, Rs02-265.jpg, 0
+Rs03-357.jpg, Rs02-280.jpg, MATCH
+Rs03-357.jpg, Rs02-297.jpg, 0
+Rs03-357.jpg, Rs02-373.jpg, 0
+Rs03-357.jpg, Rs02-380.jpg, 0
+Rs03-357.jpg, Rs02-393.jpg, 0
+Rs03-357.jpg, Rs02-458.jpg, 0
+Rs03-357.jpg, Rs02-518.jpg, 0
+Looking for a match to: Rs03-358.jpg
+Rs03-358.jpg, Rs02-224.jpg, 0
+Rs03-358.jpg, Rs02-251.jpg, 0
+Rs03-358.jpg, Rs02-265.jpg, 0
+Rs03-358.jpg, Rs02-280.jpg, 0
+Rs03-358.jpg, Rs02-297.jpg, 0
+Rs03-358.jpg, Rs02-373.jpg, 0
+Rs03-358.jpg, Rs02-380.jpg, MATCH
+Rs03-358.jpg, Rs02-393.jpg, 0
+Rs03-358.jpg, Rs02-458.jpg, 0
+Rs03-358.jpg, Rs02-518.jpg, 0

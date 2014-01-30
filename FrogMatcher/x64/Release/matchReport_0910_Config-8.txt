@@ -1,0 +1,10 @@
+Frog Image Match Report
+Image directory: h:\Sets0910
+Looking for a match to: Rs10-006.jpg
+Rs10-006.jpg, Rs09-130.jpg, 0
+Rs10-006.jpg, Rs09-131.jpg, 0
+Rs10-006.jpg, Rs09-132.jpg, 0
+Rs10-006.jpg, Rs09-133.jpg, 0
+Rs10-006.jpg, Rs09-134.jpg, 0
+Rs10-006.jpg, Rs09-135.jpg, MATCH
+Rs10-006.jpg, Rs09-136.jpg, 0

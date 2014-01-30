@@ -1,0 +1,1318 @@
+
+C:\Users\David\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Release>FrogMatcher.exe i:\Set
+s0910
+Rs10-006.jpg : Rs09-026.jpg
+Number of SURF points (1): 1443
+Number of SURF points (2): 1405
+Descriptor matrix size: 1443 by 32
+OpenCV Error: Unsupported format or combination of formats (type=0
+) in unknown function, file C:\slave\builds\WinInstallerMegaPack\src\opencv\modules\flann\src\miniflann.cpp, line 315
+
+C:\Users\David\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Release>FrogMatcher.exe i:\Set
+s0910
+Rs10-006.jpg : Rs09-026.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 10647
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 23
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-027.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 13699
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 25
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-034.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 7270
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-048.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 8559
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 28
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-058.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 9558
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-063.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 10772
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 0
+Rs10-006.jpg : Rs09-074.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 10867
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 15
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-086.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 10228
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 18
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-088.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 9256
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 26
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-101.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 10189
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-102.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 11222
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 29
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-135.jpg
+Number of SURF points (1): 7566
+Number of SURF points (2): 11407
+Descriptor matrix size: 7566 by 64
+Number of matched points 1->2: 7566
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 34
+Number of matched points (symmetry test): 15
+Number of matched points (after cleaning): 8
+Rs10-006.jpg : Rs09-154.jpg
+Number of SURF points (1): 12059
+Number of SURF points (2): 11555
+Descriptor matrix size: 12059 by 64
+Number of matched points 1->2: 12059
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 53
+Number of matched points 2->1 (ratio test) : 23
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-189.jpg
+Number of SURF points (1): 12059
+Number of SURF points (2): 10875
+Descriptor matrix size: 12059 by 64
+Number of matched points 1->2: 12059
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 103
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-006.jpg : Rs09-237.jpg
+Number of SURF points (1): 12059
+Number of SURF points (2): 12034
+Descriptor matrix size: 12059 by 64
+Number of matched points 1->2: 12059
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 26
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 7
+Number of matched points (after cleaning): 7
+Rs10-006.jpg : Rs09-449.jpg
+Number of SURF points (1): 16671
+Number of SURF points (2): 13565
+Descriptor matrix size: 16671 by 64
+Number of matched points 1->2: 16671
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 37
+Number of matched points 2->1 (ratio test) : 29
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-026.jpg
+Number of SURF points (1): 12349
+Number of SURF points (2): 10647
+Descriptor matrix size: 12349 by 64
+Number of matched points 1->2: 12349
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 27
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-027.jpg
+Number of SURF points (1): 12349
+Number of SURF points (2): 13699
+Descriptor matrix size: 12349 by 64
+Number of matched points 1->2: 12349
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-034.jpg
+Number of SURF points (1): 12349
+Number of SURF points (2): 7270
+Descriptor matrix size: 12349 by 64
+Number of matched points 1->2: 12349
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 21
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-048.jpg
+Number of SURF points (1): 12349
+Number of SURF points (2): 8559
+Descriptor matrix size: 12349 by 64
+Number of matched points 1->2: 12349
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-058.jpg
+Number of SURF points (1): 12349
+Number of SURF points (2): 9558
+Descriptor matrix size: 12349 by 64
+Number of matched points 1->2: 12349
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 7
+Number of matched points (after cleaning): 7
+Rs10-009.jpg : Rs09-063.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 10772
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 111
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-074.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 10867
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 362
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-086.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 10228
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 27
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-088.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 9256
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 112
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-101.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 10189
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 100
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-102.jpg
+Number of SURF points (1): 17426
+Number of SURF points (2): 11222
+Descriptor matrix size: 17426 by 64
+Number of matched points 1->2: 17426
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 137
+Number of matched points 2->1 (ratio test) : 29
+Number of matched points (symmetry test): 12
+Number of matched points (after cleaning): 7
+Rs10-009.jpg : Rs09-135.jpg
+Number of SURF points (1): 19613
+Number of SURF points (2): 11407
+Descriptor matrix size: 19613 by 64
+Number of matched points 1->2: 19613
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 31
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-154.jpg
+Number of SURF points (1): 19613
+Number of SURF points (2): 11555
+Descriptor matrix size: 19613 by 64
+Number of matched points 1->2: 19613
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 90
+Number of matched points 2->1 (ratio test) : 25
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-189.jpg
+Number of SURF points (1): 19613
+Number of SURF points (2): 10875
+Descriptor matrix size: 19613 by 64
+Number of matched points 1->2: 19613
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 143
+Number of matched points 2->1 (ratio test) : 23
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-237.jpg
+Number of SURF points (1): 19613
+Number of SURF points (2): 12034
+Descriptor matrix size: 19613 by 64
+Number of matched points 1->2: 19613
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 72
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-009.jpg : Rs09-449.jpg
+Number of SURF points (1): 19613
+Number of SURF points (2): 13565
+Descriptor matrix size: 19613 by 64
+Number of matched points 1->2: 19613
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 49
+Number of matched points 2->1 (ratio test) : 26
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-026.jpg
+Number of SURF points (1): 7604
+Number of SURF points (2): 10647
+Descriptor matrix size: 7604 by 64
+Number of matched points 1->2: 7604
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 21
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-027.jpg
+Number of SURF points (1): 7604
+Number of SURF points (2): 13699
+Descriptor matrix size: 7604 by 64
+Number of matched points 1->2: 7604
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 14
+Number of matched points 2->1 (ratio test) : 24
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-034.jpg
+Number of SURF points (1): 7604
+Number of SURF points (2): 7270
+Descriptor matrix size: 7604 by 64
+Number of matched points 1->2: 7604
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 22
+Number of matched points 2->1 (ratio test) : 24
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-048.jpg
+Number of SURF points (1): 7604
+Number of SURF points (2): 8559
+Descriptor matrix size: 7604 by 64
+Number of matched points 1->2: 7604
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 21
+Number of matched points 2->1 (ratio test) : 31
+Number of matched points (symmetry test): 8
+Number of matched points (after cleaning): 7
+Rs10-012.jpg : Rs09-058.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 9558
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 35
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-063.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 10772
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 219
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-074.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 10867
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 245
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-086.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 10228
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 38
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-088.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 9256
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 73
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-101.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 10189
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 55
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-102.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 11222
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 79
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-135.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 11407
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-154.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 11555
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 53
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-189.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 10875
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 203
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-237.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 12034
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 37
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-012.jpg : Rs09-449.jpg
+Number of SURF points (1): 13517
+Number of SURF points (2): 13565
+Descriptor matrix size: 13517 by 64
+Number of matched points 1->2: 13517
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 35
+Number of matched points 2->1 (ratio test) : 30
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-026.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 10647
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 20
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-027.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 13699
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 24
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-034.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 7270
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 25
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-048.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 8559
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 30
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-058.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 9558
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 22
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-063.jpg
+Number of SURF points (1): 11562
+Number of SURF points (2): 10772
+Descriptor matrix size: 11562 by 64
+Number of matched points 1->2: 11562
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 26
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 8
+Number of matched points (after cleaning): 7
+Rs10-027.jpg : Rs09-074.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 10867
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 248
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-086.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 10228
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-088.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 9256
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 65
+Number of matched points 2->1 (ratio test) : 26
+Number of matched points (symmetry test): 6
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-101.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 10189
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 31
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-102.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 11222
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 50
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 6
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-135.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 11407
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 20
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-154.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 11555
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 54
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-189.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 10875
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 73
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-237.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 12034
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 24
+Number of matched points 2->1 (ratio test) : 29
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-027.jpg : Rs09-449.jpg
+Number of SURF points (1): 15282
+Number of SURF points (2): 13565
+Descriptor matrix size: 15282 by 64
+Number of matched points 1->2: 15282
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 38
+Number of matched points 2->1 (ratio test) : 26
+Number of matched points (symmetry test): 7
+Number of matched points (after cleaning): 7
+Rs10-042.jpg : Rs09-026.jpg
+Number of SURF points (1): 7916
+Number of SURF points (2): 10647
+Descriptor matrix size: 7916 by 64
+Number of matched points 1->2: 7916
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 28
+Number of matched points (symmetry test): 7
+Number of matched points (after cleaning): 7
+Rs10-042.jpg : Rs09-027.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 13699
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 21
+Number of matched points 2->1 (ratio test) : 21
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-034.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 7270
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 28
+Number of matched points 2->1 (ratio test) : 16
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-048.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 8559
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 165
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 0
+Rs10-042.jpg : Rs09-058.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 9558
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 26
+Number of matched points 2->1 (ratio test) : 25
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-063.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 10772
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 68
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-074.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 10867
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 82
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 6
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-086.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 10228
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 40
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 0
+Rs10-042.jpg : Rs09-088.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 9256
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-101.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 10189
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 61
+Number of matched points 2->1 (ratio test) : 21
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-102.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 11222
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 34
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-135.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 11407
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 40
+Number of matched points 2->1 (ratio test) : 21
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-154.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 11555
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 59
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-189.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 10875
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 86
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-237.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 12034
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 27
+Number of matched points 2->1 (ratio test) : 33
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-042.jpg : Rs09-449.jpg
+Number of SURF points (1): 17360
+Number of SURF points (2): 13565
+Descriptor matrix size: 17360 by 64
+Number of matched points 1->2: 17360
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 71
+Number of matched points 2->1 (ratio test) : 33
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-026.jpg
+Number of SURF points (1): 9155
+Number of SURF points (2): 10647
+Descriptor matrix size: 9155 by 64
+Number of matched points 1->2: 9155
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 27
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-027.jpg
+Number of SURF points (1): 9155
+Number of SURF points (2): 13699
+Descriptor matrix size: 9155 by 64
+Number of matched points 1->2: 9155
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 13
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-034.jpg
+Number of SURF points (1): 9155
+Number of SURF points (2): 7270
+Descriptor matrix size: 9155 by 64
+Number of matched points 1->2: 9155
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 21
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-048.jpg
+Number of SURF points (1): 9155
+Number of SURF points (2): 8559
+Descriptor matrix size: 9155 by 64
+Number of matched points 1->2: 9155
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 10
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-058.jpg
+Number of SURF points (1): 9155
+Number of SURF points (2): 9558
+Descriptor matrix size: 9155 by 64
+Number of matched points 1->2: 9155
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 24
+Number of matched points 2->1 (ratio test) : 31
+Number of matched points (symmetry test): 7
+Number of matched points (after cleaning): 7
+Rs10-055.jpg : Rs09-063.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 10772
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 38
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-074.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 10867
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 163
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-086.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 10228
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 23
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-088.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 9256
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 27
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-101.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 10189
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 33
+Number of matched points 2->1 (ratio test) : 10
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-102.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 11222
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 58
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-135.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 11407
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 19
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-154.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 11555
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 42
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-189.jpg
+Number of SURF points (1): 13703
+Number of SURF points (2): 10875
+Descriptor matrix size: 13703 by 64
+Number of matched points 1->2: 13703
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 134
+Number of matched points 2->1 (ratio test) : 23
+Number of matched points (symmetry test): 9
+Number of matched points (after cleaning): 7
+Rs10-055.jpg : Rs09-237.jpg
+Number of SURF points (1): 16749
+Number of SURF points (2): 12034
+Descriptor matrix size: 16749 by 64
+Number of matched points 1->2: 16749
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 92
+Number of matched points 2->1 (ratio test) : 21
+Number of matched points (symmetry test): 6
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-055.jpg : Rs09-449.jpg
+Number of SURF points (1): 16749
+Number of SURF points (2): 13565
+Descriptor matrix size: 16749 by 64
+Number of matched points 1->2: 16749
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 33
+Number of matched points 2->1 (ratio test) : 24
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-026.jpg
+Number of SURF points (1): 13611
+Number of SURF points (2): 10647
+Descriptor matrix size: 13611 by 64
+Number of matched points 1->2: 13611
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 27
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-027.jpg
+Number of SURF points (1): 13611
+Number of SURF points (2): 13699
+Descriptor matrix size: 13611 by 64
+Number of matched points 1->2: 13611
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 24
+Number of matched points 2->1 (ratio test) : 20
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-034.jpg
+Number of SURF points (1): 13611
+Number of SURF points (2): 7270
+Descriptor matrix size: 13611 by 64
+Number of matched points 1->2: 13611
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 24
+Number of matched points 2->1 (ratio test) : 25
+Number of matched points (symmetry test): 6
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-048.jpg
+Number of SURF points (1): 13611
+Number of SURF points (2): 8559
+Descriptor matrix size: 13611 by 64
+Number of matched points 1->2: 13611
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 24
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-058.jpg
+Number of SURF points (1): 13611
+Number of SURF points (2): 9558
+Descriptor matrix size: 13611 by 64
+Number of matched points 1->2: 13611
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 29
+Number of matched points 2->1 (ratio test) : 25
+Number of matched points (symmetry test): 8
+Number of matched points (after cleaning): 7
+Rs10-077.jpg : Rs09-063.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 10772
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 92
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-074.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 10867
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 179
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-086.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 10228
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 33
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-088.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 9256
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 9256
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-101.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 10189
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 10189
+Number of matched points 1->2 (ratio test) : 39
+Number of matched points 2->1 (ratio test) : 15
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-102.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 11222
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 11222
+Number of matched points 1->2 (ratio test) : 85
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-135.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 11407
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 11407
+Number of matched points 1->2 (ratio test) : 33
+Number of matched points 2->1 (ratio test) : 9
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-154.jpg
+Number of SURF points (1): 17865
+Number of SURF points (2): 11555
+Descriptor matrix size: 17865 by 64
+Number of matched points 1->2: 17865
+Number of matched points 2->1: 11555
+Number of matched points 1->2 (ratio test) : 85
+Number of matched points 2->1 (ratio test) : 30
+Number of matched points (symmetry test): 10
+Number of matched points (after cleaning): 7
+Rs10-077.jpg : Rs09-189.jpg
+Number of SURF points (1): 20031
+Number of SURF points (2): 10875
+Descriptor matrix size: 20031 by 64
+Number of matched points 1->2: 20031
+Number of matched points 2->1: 10875
+Number of matched points 1->2 (ratio test) : 272
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 5
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-237.jpg
+Number of SURF points (1): 20031
+Number of SURF points (2): 12034
+Descriptor matrix size: 20031 by 64
+Number of matched points 1->2: 20031
+Number of matched points 2->1: 12034
+Number of matched points 1->2 (ratio test) : 61
+Number of matched points 2->1 (ratio test) : 14
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-077.jpg : Rs09-449.jpg
+Number of SURF points (1): 20031
+Number of SURF points (2): 13565
+Descriptor matrix size: 20031 by 64
+Number of matched points 1->2: 20031
+Number of matched points 2->1: 13565
+Number of matched points 1->2 (ratio test) : 34
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-026.jpg
+Number of SURF points (1): 14304
+Number of SURF points (2): 10647
+Descriptor matrix size: 14304 by 64
+Number of matched points 1->2: 14304
+Number of matched points 2->1: 10647
+Number of matched points 1->2 (ratio test) : 16
+Number of matched points 2->1 (ratio test) : 18
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-027.jpg
+Number of SURF points (1): 14304
+Number of SURF points (2): 13699
+Descriptor matrix size: 14304 by 64
+Number of matched points 1->2: 14304
+Number of matched points 2->1: 13699
+Number of matched points 1->2 (ratio test) : 17
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-034.jpg
+Number of SURF points (1): 14304
+Number of SURF points (2): 7270
+Descriptor matrix size: 14304 by 64
+Number of matched points 1->2: 14304
+Number of matched points 2->1: 7270
+Number of matched points 1->2 (ratio test) : 32
+Number of matched points 2->1 (ratio test) : 12
+Number of matched points (symmetry test): 3
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-048.jpg
+Number of SURF points (1): 14304
+Number of SURF points (2): 8559
+Descriptor matrix size: 14304 by 64
+Number of matched points 1->2: 14304
+Number of matched points 2->1: 8559
+Number of matched points 1->2 (ratio test) : 28
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 9
+Number of matched points (after cleaning): 7
+Rs10-119.jpg : Rs09-058.jpg
+Number of SURF points (1): 18285
+Number of SURF points (2): 9558
+Descriptor matrix size: 18285 by 64
+Number of matched points 1->2: 18285
+Number of matched points 2->1: 9558
+Number of matched points 1->2 (ratio test) : 92
+Number of matched points 2->1 (ratio test) : 40
+Number of matched points (symmetry test): 15
+Number of matched points (after cleaning): 10
+Rs10-119.jpg : Rs09-063.jpg
+Number of SURF points (1): 22307
+Number of SURF points (2): 10772
+Descriptor matrix size: 22307 by 64
+Number of matched points 1->2: 22307
+Number of matched points 2->1: 10772
+Number of matched points 1->2 (ratio test) : 205
+Number of matched points 2->1 (ratio test) : 13
+Number of matched points (symmetry test): 4
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-074.jpg
+Number of SURF points (1): 22307
+Number of SURF points (2): 10867
+Descriptor matrix size: 22307 by 64
+Number of matched points 1->2: 22307
+Number of matched points 2->1: 10867
+Number of matched points 1->2 (ratio test) : 369
+Number of matched points 2->1 (ratio test) : 19
+Number of matched points (symmetry test): 2
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-086.jpg
+Number of SURF points (1): 22307
+Number of SURF points (2): 10228
+Descriptor matrix size: 22307 by 64
+Number of matched points 1->2: 22307
+Number of matched points 2->1: 10228
+Number of matched points 1->2 (ratio test) : 53
+Number of matched points 2->1 (ratio test) : 17
+Number of matched points (symmetry test): 1
+Number of matched points (after cleaning): 0
+Frogs are not a match!!
+Rs10-119.jpg : Rs09-088.jpg
+Number of SURF points (1): 22307
+Number of SURF points (2): 9256
+Descriptor matrix size: 22307 by 64
+^C
+C:\Users\David\Dropbox\UND\2013\Fall 2013\EE480 Senior Design I\Test Code\FrogMatcher\x64\Release>
