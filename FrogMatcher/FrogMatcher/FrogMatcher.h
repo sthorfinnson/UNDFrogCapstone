@@ -32,6 +32,8 @@ class FrogMatcher {
 		  int ratioTest2; // number of matched points following ratio test 2->1
 		  int symTest; // number of matched points following symmetry test
 		  int ransacResults; // number of matched points following RANSAC
+		  double score; /*	computed score for match
+							Lower is better.  0 is identical match */
 
   public:
 
@@ -294,9 +296,27 @@ class FrogMatcher {
 				cv::gpu::GpuMat descriptors1GPU, descriptors2GPU;
 
 				// --------------------------------------------------------------------------------------
-				// SURF 
+				// Construction of the SURF feature detector
 				// --------------------------------------------------------------------------------------
-				cv::gpu::SURF_GPU surf;
+				double minHessian = 200;  // minimum Hessian threshold
+				int nOctaves = 4; // number of gaussian pyramid octaves for SURF detector
+				int nLayers = 2; // number of octave layers for SURF detector
+				bool extDescriptors = false; // extended descriptors
+				bool upright = true; // upright orientation for descriptors
+
+				cv::gpu::SURF_GPU surf( minHessian, // minimum Hessian threshold
+										  nOctaves, /*	The number of gaussian pyramid octaves that the detector uses.
+														It is set to 4 by default.
+														For very large features, use a larger value.
+														For small features, decrease it. */
+										   nLayers, //	The number of octave layers.
+									extDescriptors, /*	Extended descriptors bool
+														False indicates basic descriptors (64 elements each) 
+														True set extended descriptors (128 elements ea.) shall be computed */
+										   upright); /*	Upright orientation of features
+														True - upright only (do not compute orientation)
+														False - compute orientation  */
+
 				surf(image1, cv::gpu::GpuMat(), keypoints1GPU, descriptors1GPU);
 				surf(image2, cv::gpu::GpuMat(), keypoints2GPU, descriptors2GPU);
  
@@ -389,6 +409,7 @@ class FrogMatcher {
 				// If there are no symmetrically matched points, skip the RANSAC test (which will fail)
 				if (symMatches.size()==0)
 					{
+						score = 1000000.0;
 						cv::Mat fundamental;
 						return fundamental;
 				}
@@ -396,7 +417,18 @@ class FrogMatcher {
 				// 5. Validate matches using RANSAC
 				cv::Mat fundamental= ransacTest(symMatches, keypoints1, keypoints2, matches);
 				
-                // return the found fundemental matrix
+				if(matches.size() == 0)
+				{
+					score = 1000000.0;
+				}
+				else
+				{
+					for(unsigned int i=0; i<matches.size(); i++)
+						score += (double) matches[i].distance;
+					score = 10000.0 * score / (matches.size() * matches.size());
+				}
+
+				// return the found fundemental matrix
                 return fundamental;
         }
 };
