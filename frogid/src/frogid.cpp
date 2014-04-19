@@ -4,8 +4,7 @@
  *  Created on: Apr 4, 2014
  *      Author: root
  */
-// manyMatchMulti.cpp : Defines the entry point for the console application.
-//
+
 
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/features2d/features2d.hpp"
